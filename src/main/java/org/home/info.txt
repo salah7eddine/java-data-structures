@@ -28,3 +28,6 @@ to search the stack for an item and discover how far it is from the top.
 Synchronization: Vector is synchronized, which means only one thread at a time can access the code,
 while ArrayList is not synchronized, which means multiple threads can work on ArrayList at the same time.
 ------------------------------------------------------------------------------------------------------------
+Queue
+FiFO (First In First Out)
+A collection designed for holding elements prior to processing.
