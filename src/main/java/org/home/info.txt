@@ -4,3 +4,14 @@ Arrays
     - Compact memory usage if size is known
     - Delete operation very hard
     - 2D Arrays
+
+List Interface :
+    - An ordered collection aka sequence.
+    - Allow duplicates
+    - Not Fixed in size like arrays
+    - Fast for dat retrivals
+    - Various implementations
+        - ArrayList
+        - Stack
+        - Vector
+        - Others
