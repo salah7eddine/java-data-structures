@@ -48,3 +48,9 @@ and at most one null element.
 As implied by its name, this interface models the mathematical set abstraction.
 
 ------------------------------------------------------------------------------------------------------------
+
+Map :
+    - A map cannot contain duplicated keys.
+    - Each key can map to at most one value.
+
+------------------------------------------------------------------------------------------------------------
